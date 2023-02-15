@@ -5,7 +5,7 @@
  *              with line numbers, starting at 0.
  * @info: Structure containing potential arguments. Used to maintain
  *        constant function prototype.
- *  Return: Always 0
+ *  Return: Always  0
  */
 int _myhistory(info_t *info)
 {
