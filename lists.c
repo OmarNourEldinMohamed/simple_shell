@@ -6,7 +6,7 @@
  * @str: str field of node
  * @num: node index used by history
  *
- * Return: size of list
+ * Return: Size of list
  */
 list_t *add_node(list_t **head, const char *str, int num)
 {
@@ -39,7 +39,7 @@ list_t *add_node(list_t **head, const char *str, int num)
  * @str: str field of node
  * @num: node index used by history
  *
- * Return: size of list
+ * Return: Size of list
  */
 list_t *add_node_end(list_t **head, const char *str, int num)
 {
@@ -78,7 +78,7 @@ list_t *add_node_end(list_t **head, const char *str, int num)
  * print_list_str - prints only the str element of a list_t linked list
  * @h: pointer to first node
  *
- * Return: size of list
+ * Return: Size of list
  */
 size_t print_list_str(const list_t *h)
 {
