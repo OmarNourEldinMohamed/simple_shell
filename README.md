@@ -1,6 +1,6 @@
-## ALX Simple Shell group Project
+# ALX Simple Shell group Project
 
-# This is a simple UNIX command interpreter based on bash and Sh.
+### This is a simple UNIX command interpreter based on bash and Sh.
 
 ## Overview ##
 
