@@ -1,12 +1,12 @@
-##ALX Simple Shell group Project
+## ALX Simple Shell group Project
 
-#This is a simple UNIX command interpreter based on bash and Sh.
+# This is a simple UNIX command interpreter based on bash and Sh.
 
-##Overview ##
+## Overview ##
 
 hsh is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
 
-##Project was completed using ##
+## Project was completed using ##
 - C language
 - Shell
 - Betty linter
@@ -311,10 +311,10 @@ $ echo $NAME
 $
 ```
 
-##AUTHERS
+## AUTHERS
 
 This is an ALX collaboration project between (Omar Mohamed, Khadija Abdelqwe)
 
-##More information
+## More information
 
 hsh is a simple shell unix command interpreter that is part of the ALX low level programming module at alx-Holberton School and is intended to emulate the basics sh shell. All the information given in this README is based on the hsh and bash man (1) pages.
