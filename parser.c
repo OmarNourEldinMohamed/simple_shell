@@ -28,7 +28,7 @@ int is_cmd(info_t *info, char *path)
  * @start: starting index
  * @stop: stopping index
  *
- * Return: pointer to new buffer
+ * Return: Pointer to new buffer
  */
 char *dup_chars(char *pathstr, int start, int stop)
 {
