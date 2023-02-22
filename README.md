@@ -311,7 +311,7 @@ $ echo $NAME
 $
 ```
 
-## AUTHERS
+## AUTHORS
 
 This is an ALX collaboration project between (Omar Mohamed, Khadija Abdelqwe)
 
