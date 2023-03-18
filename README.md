@@ -311,7 +311,7 @@ $
 
 ## AUTHORS
 
-This is an ALX collaboration project between (Omar Mohamed, Khadija Abdelqwe)
+This is an ALX collaboration project between (Omar Mohamed, Khadeja Ezzat)
 
 ## More information
 
